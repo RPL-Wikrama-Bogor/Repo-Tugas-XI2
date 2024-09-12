@@ -1,0 +1,2 @@
+LKPD 1 (HTML, CSS, JAVASCRIPT) -> https://github.com/maliekaaa/LKPD-JAVASCRIPT.git
+LKPD 2 (PHP) -> https://github.com/maliekaaa/LKPD-PHP.git
