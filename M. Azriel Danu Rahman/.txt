@@ -1,0 +1,2 @@
+LKPD 1 (+Tugas Ka Fema) : https://github.com/RahmanAzriel/LKPD1-KAFEMA.git
+LKPD 2 : https://github.com/RahmanAzriel/LKPDke2.git
