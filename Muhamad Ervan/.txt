@@ -1,0 +1,2 @@
+LKPD 1 : https://github.com/Ervannn2611/LKPD1.git
+LKPD 2 : https://github.com/Ervannn2611/LKPD2-PHP.git
