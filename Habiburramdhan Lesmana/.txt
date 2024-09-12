@@ -1,0 +1,3 @@
+LKPD 1 HTML,CSS,JS : https://github.com/habiburramdhan/lkpd-1-kelas-11
+LKPD 2 HTM,CSS,PHP : https://github.com/habiburramdhan/PhpAdvanceLearn
+
