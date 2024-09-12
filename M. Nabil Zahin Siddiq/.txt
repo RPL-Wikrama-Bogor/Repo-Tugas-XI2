@@ -1,0 +1,2 @@
+LKPD 1: https://github.com/mnabilzahins16/LKPD-1-kelas-11.git
+LKPD 2: https://github.com/mnabilzahins16/LKPD-2-kelas-11.git
