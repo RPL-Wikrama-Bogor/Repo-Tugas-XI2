@@ -1,0 +1,2 @@
+Link Repository LKPD 1 (HTML, css, js) -> https://github.com/KafiyaNuril/html-css-js.git
+Link Repository LKPD 2 (PHP) -> https://github.com/KafiyaNuril/LKPD-PHP.git
