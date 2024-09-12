@@ -1,1 +1,2 @@
-LKPD 1
+LKPD 1 : https://github.com/rohim-rohimat/LKPD1.git
+LKPD 2 : https://github.com/rohim-rohimat/LKPD2.git
