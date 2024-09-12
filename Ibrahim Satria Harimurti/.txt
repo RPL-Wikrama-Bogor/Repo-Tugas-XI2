@@ -1,0 +1,2 @@
+LKPD 1 : https://github.com/ibrahim-satria/LKPD-1.git
+LKPD 2 : https://github.com/ibrahim-satria/LKPD-2.git
