@@ -1,0 +1,2 @@
+LKPD 1 : https://github.com/tama050607/lkpd1.git
+LKPD 2 : https://github.com/tama050607/LKPD-2.git
