@@ -1,0 +1,5 @@
+LKPD_1-2 : link repo <https://github.com/fturmhrm/LKPD_1-2> 
+NAMA FOLDER DI DALAM LINK :- LKPD-1
+                           - LKPD-2 PHP
+                           - STUDY CASE
+
