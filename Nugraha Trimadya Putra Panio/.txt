@@ -1,0 +1,2 @@
+LKPD 1: https://github.com/Nugraha-Trimadya/LKPD1XI2.git
+LKPD 2: https://github.com/Nugraha-Trimadya/LKPDPHPXI2.git
