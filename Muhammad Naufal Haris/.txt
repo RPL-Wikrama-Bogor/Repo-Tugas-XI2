@@ -1,0 +1,2 @@
+LKPD 1 html: https://naufalharis.github.io/LKPD_HTML/
+LKPD 2 php: https://naufalharis.github.io/LKPD_PHP/
