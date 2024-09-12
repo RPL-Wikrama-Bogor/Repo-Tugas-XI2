@@ -1,0 +1,2 @@
+link repository LKPD HTML : https://github.com/AndiRoyani/LKPDHTML.git
+link repository LKPD PHP :  https://github.com/AndiRoyani/LKPDPHP.git
