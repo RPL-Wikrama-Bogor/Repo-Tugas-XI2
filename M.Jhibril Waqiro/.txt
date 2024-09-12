@@ -1,0 +1,2 @@
+LKPD 1 : https://github.com/AbilWaqiro/LKPD-1-Html-css-Js.git
+LKPD 2 : https://github.com/AbilWaqiro/LKPD-2-php.git
