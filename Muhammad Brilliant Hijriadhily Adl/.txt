@@ -1,0 +1,2 @@
+link repository LKPD HTML|CSS|JS : https://github.com/billymillo/LKPD-1-HTMLCSSJS-XI
+link repository LKPD HTML|CSS|JS : https://github.com/billymillo/LKPD-2-PHP-XI
