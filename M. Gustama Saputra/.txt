@@ -1,2 +1,3 @@
-LKPD 1 : https://github.com/tama050607/lkpd1.git
-LKPD 2 : https://github.com/tama050607/LKPD-2.git
+LKPD 1      : https://github.com/tama050607/lkpd1.git
+LKPD 2      : https://github.com/tama050607/LKPD-2.git
+LINK TRELLO : https://trello.com/invite/b/66f0d37f49445c459187bcf4/ATTI0f59d545b306ea798a522dc1f60e129fEECB80DF/tugas
