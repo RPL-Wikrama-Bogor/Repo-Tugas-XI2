@@ -1,0 +1,4 @@
+LKPD 1 : -
+LKPD 2 : <>
+
+LINK TRELLO : <https://trello.com/invite/b/66f0cf416965c7bfabc2ab5b/ATTIf79ae25fc114efa01533474fd2fc6a09FED07080/gtau>
