@@ -1,0 +1,6 @@
+LKPD_1-2 : link repo <https://github.com/fturmhrm/LKPD_1-2> 
+NAMA FOLDER DI DALAM LINK :- LKPD-1
+                           - LKPD-2 PHP
+                           - STUDY CASE
+
+LINK Trello.com : https://trello.com/invite/b/66f0d34bff3ed26d157d4694/ATTI1d51ebaced4f2c05c020661a4cab39030F8544F1/project
