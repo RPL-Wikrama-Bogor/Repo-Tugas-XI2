@@ -1,0 +1,4 @@
+LKPD 1 : https://github.com/AbilWaqiro/LKPD-1-Html-css-Js.git
+LKPD 2 : https://github.com/AbilWaqiro/LKPD-2-php.git
+
+link trello saya: https://trello.com/invite/b/66f0d3436b4a7117e5f176a5/ATTI9b6d8c098e690a132146fa63aec3b368800DFA83/project-senin-9-23-2024
