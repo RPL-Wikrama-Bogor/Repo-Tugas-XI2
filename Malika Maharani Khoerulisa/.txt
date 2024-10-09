@@ -1,0 +1,4 @@
+LKPD 1 (HTML, CSS, JAVASCRIPT) -> https://github.com/maliekaaa/LKPD-JAVASCRIPT.git
+LKPD 2 (PHP) -> https://github.com/maliekaaa/LKPD-PHP.git
+
+Link Trello : https://trello.com/invite/b/66f0d369b639d44d3dd5e45f/ATTI214343c83645941ec47a19b5bac9fe14FDA6678E/projek
