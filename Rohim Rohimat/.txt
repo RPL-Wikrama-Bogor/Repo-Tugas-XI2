@@ -1,0 +1,4 @@
+LKPD 1 : https://github.com/rohim-rohimat/LKPD1.git
+LKPD 2 : https://github.com/rohim-rohimat/LKPD2.git
+
+link trello : https://trello.com/invite/b/66f0d343e6dab37d552586e7/ATTIa0876f903cd941222fe81f1e57207730C2004708/project-a
