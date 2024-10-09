@@ -1,0 +1,4 @@
+LKPD 1: https://github.com/mnabilzahins16/LKPD-1-kelas-11.git
+LKPD 2: https://github.com/mnabilzahins16/LKPD-2-kelas-11.git
+
+link trello : https://trello.com/invite/b/66f0d33713d51901e4af69cf/ATTId718e5f43ca29e534ce32d629a790d8a79B7107A/project-a
