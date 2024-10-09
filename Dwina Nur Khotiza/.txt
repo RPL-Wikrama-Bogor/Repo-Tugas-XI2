@@ -1,0 +1,3 @@
+LKPD 1 : https://github.com/dwinakhotizaa/LKPD-1.git
+LKPD-PHP : https://github.com/dwinakhotizaa/LKPD-PHP.git
+Link Trello: https://trello.com/invite/b/66f0d35425405a2530a003f4/ATTIe252a934290b37b6bf52ce0ef1ad61794A2F651F/apotek
