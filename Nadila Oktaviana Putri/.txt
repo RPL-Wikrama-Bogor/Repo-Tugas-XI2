@@ -1,0 +1,4 @@
+LKPD 1 : https://github.com/Nadillaoktv/LKPD-1
+LKPD 2 : https://github.com/Nadillaoktv/LKPD-2
+
+Link Trello : https://trello.com/invite/b/66f0d354b9d2856c1819e432/ATTIb83ba2dfb232382182bb02101809aad244E9DF76/project-a
