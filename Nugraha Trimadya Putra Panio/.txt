@@ -1,3 +1,3 @@
 LKPD 1: https://github.com/Nugraha-Trimadya/LKPD1XI2.git
 LKPD 2: https://github.com/Nugraha-Trimadya/LKPDPHPXI2.git
-Link Trello : 
+Link Trello : https://trello.com/invite/b/66f0d43bdd69f8be71165318/ATTI7dcd59983fcee99c473062843a9034174C133717/project
