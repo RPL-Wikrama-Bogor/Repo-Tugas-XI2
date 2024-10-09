@@ -1,0 +1,3 @@
+LKPD1 : https://github.com/KeylaMaharani/LKPD1.git 
+LKPD2 : https://github.com/KeylaMaharani/LKPD2.git
+Trello : https://trello.com/invite/b/66f0d361214bd2a9f18231f2/ATTIfdae29cffbdaeeab7458856520e4d42a577EC186/kasir
