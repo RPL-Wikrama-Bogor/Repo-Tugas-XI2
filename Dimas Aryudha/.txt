@@ -1,3 +1,3 @@
-Link 1 LKPD : https://github.com/dimasaryudha/lkpd-html.git
-Link Trello : https://trello.com/invite/b/66f0d3b726746211fa6fe7df/ATTI5a28e93aaf897e3552f7e9c2901969bd45C93A2D/pplgxi2
-Link 2 LKPD : https://github.com/dimasaryudha/php.git
+LKPD 1 : https://github.com/dimasaryudha/lkpd-html.git
+LKPD 2 : https://github.com/dimasaryudha/php.git
+LINK TRELLO :https://trello.com/invite/b/66f0d3b726746211fa6fe7df/ATTI5a28e93aaf897e3552f7e9c2901969bd45C93A2D/pplgxi2
