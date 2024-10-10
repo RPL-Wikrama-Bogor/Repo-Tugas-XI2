@@ -1,0 +1,4 @@
+LKPD 1 :https://github.com/Jauhara20/LKPD-2.git
+LKPD 2 :https://github.com/Jauhara20/LKPD-1.git
+
+Link trello : https://trello.com/invite/b/670743e5e3cc176f7b99d13a/ATTI0482b696aaa2452c128fb3d8ae3ad27e34C6C8F8/joo-treloo
