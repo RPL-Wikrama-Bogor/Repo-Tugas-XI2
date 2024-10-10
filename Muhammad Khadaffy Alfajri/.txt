@@ -1,3 +1,3 @@
 LKPD 1 https://github.com/MuhammadKhadaffyAlFajri/LKPD-2.git
 LKPD 2 https://github.com/MuhammadKhadaffyAlFajri/LKPD-1.git
-LINK TRELLO https://trello.com/invite/b/66f0cf63e4cf46b15f61f166/ATTIbd94d2edcd1b3799e1a8c24bcf148e78E01BC9AB/my-trello-board
+LINK TRELLO https://trello.com/b/DFj3RQOI/bogor-project
