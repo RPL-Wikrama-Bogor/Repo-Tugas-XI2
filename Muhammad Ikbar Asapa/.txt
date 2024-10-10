@@ -1,0 +1,3 @@
+LKPD 1 php: https://github.com/muhammadikbarasapa/LKPD1-XI-2 
+LINK TRELLO1 : https://trello.com/invite/b/66f0d33d350f3ef4bbbaa682/ATTI60adfaa00711dc80a1da2c9b926587eeB3F5812D/project-a
+LKPD 2 html,css,php : https://github.com/muhammadikbarasapa/LKPD1-XI-2
