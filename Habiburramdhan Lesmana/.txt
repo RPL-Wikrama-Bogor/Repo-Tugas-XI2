@@ -1,0 +1,5 @@
+link trello crud habib :
+https://trello.com/b/GfWBgy79/crud-absensikaryawan
+
+github crud mandiri habib :
+https://github.com/habiburramdhan/CRUD-AbsensiKaryawan
