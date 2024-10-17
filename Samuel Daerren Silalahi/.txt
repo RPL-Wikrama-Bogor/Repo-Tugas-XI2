@@ -1,3 +1,4 @@
 LKPD_1 : <https://github.com/Samueldaerren/LKPD_1>
 LKPD_2 : <https://github.com/Samueldaerren/LKPD-2>
 LINK_TRELLO : <https://trello.com/invite/b/66f0d68d6b2940469f6a7d58/ATTI4d5bb6efd3c3f8365fb8ab1b7f32be566BCBC9C1/samuel-daerren-silalahi>
+LINK_PROJECT_STS_CRUD : <https://github.com/Samueldaerren/CRUD-LARAVEL>
