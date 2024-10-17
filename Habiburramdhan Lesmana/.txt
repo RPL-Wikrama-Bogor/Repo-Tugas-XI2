@@ -1,5 +1,4 @@
-link trello crud habib :
-https://trello.com/b/GfWBgy79/crud-absensikaryawan
-
-github crud mandiri habib :
-https://github.com/habiburramdhan/CRUD-AbsensiKaryawan
+LKPD 1 HTML,CSS,JS : https://github.com/habiburramdhan/lkpd-1-kelas-11
+LKPD 2 HTM,CSS,PHP : https://github.com/habiburramdhan/PhpAdvanceLearn
+Link Akun Trello : https://trello.com/invite/b/670f8d6f6849ce8277f2c530/ATTI633f59031074c27ce657344bf0cddfb67F17DCC5/my-project
+Link Github CRUD Mandiri : https://github.com/habiburramdhan/CRUD-AbsensiKaryawan
